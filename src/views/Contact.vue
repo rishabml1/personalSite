@@ -13,17 +13,17 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Your Address, Your City, Your Country',
+					name: 'Gurugram, Haryana ',
 					icon: 'map-pin',
 				},
 				{
 					id: 2,
-					name: 'email@domain.com',
+					name: 'Rggangwar@gmail.com',
 					icon: 'mail',
 				},
 				{
 					id: 3,
-					name: '555 8888 888',
+					name: '971-906-9064',
 					icon: 'phone',
 				},
 			],
@@ -40,9 +40,7 @@ export default {
 </script>
 
 <template>
-	<div
-		class="container mx-auto flex flex-col-reverse md:flex-row py-5 md:py-10 md:mt-10"
-	>
+	<div class="container mx-auto flex flex-col-reverse md:flex-row py-5 md:py-10 md:mt-10">
 		<!-- Contact form -->
 		<ContactForm />
 
