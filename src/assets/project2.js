@@ -8,17 +8,17 @@ export default {
         {
             id: 1,
             title: 'Vriety in indian languages',
-            img: require('@/assets/images/Cvall.png'),
+            img: require('@/assets/images/img_cap_1.png'),
         },
         {
             id: 2,
             title: 'Architecture',
-            img: require('@/assets/images/Cvmain.png'),
+            img: require('@/assets/images/img_cap_att.png'),
         },
         {
             id: 3,
             title: 'RCNN-bilstm model',
-            img: require('@/assets/images/Cvarch.png'),
+            img: require('@/assets/images/img_cap.png'),
         },
     ],
     projectInfo: {
