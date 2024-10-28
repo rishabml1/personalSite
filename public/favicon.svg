@@ -1,0 +1,10 @@
+<svg width="550" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded Square Background -->
+  <rect x="20" y="30" rx="40" ry="40" width="140" height="140" fill="#f2f2f2"/>
+
+  <!-- Large Initial Letter -->
+  <text x="60" y="130" font-family="Arial" font-size="90" font-weight="bold" fill="#4f63ad">R</text>
+
+  <!-- Name Text -->
+  <text x="180" y="130" font-family="Lucida Console" font-size="70" font-weight="normal" fill="#ffffff">Rishabh</text>
+</svg>
